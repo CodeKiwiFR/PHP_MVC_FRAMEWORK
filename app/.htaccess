@@ -1,0 +1,2 @@
+# We want to make our folders inacessible from user (to make them accessible "Options +Indexes")
+Options -Indexes
